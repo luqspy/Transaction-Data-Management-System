@@ -140,7 +140,7 @@ void arrayChannelMenu(...);
 
 // 5. Main Function
 int main() { ... }                  // Program entry point, drives the UI.
-
+```
 ## ⚙️ Technical Details
 
 ### ⏱️ Time Complexity
